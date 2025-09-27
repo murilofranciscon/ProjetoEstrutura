@@ -9,8 +9,12 @@ public class ScoreEntry {
         this.score = score;
     }
 
-    public String getPlayer() { return player; }
-    public int getScore() { return score; }
+    public String getPlayer() {
+        return player;
+    }
+    public int getScore() {
+        return score;
+    }
 
     @Override
     public String toString() {
