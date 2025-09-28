@@ -58,8 +58,8 @@ O objetivo é encontrar a saída do labirinto.
 Ao final, sua pontuação é salva em ranking.csv e o ranking é atualizado automaticamente.
 
 👨‍💻 Autores
-Murilo → Estruturas de Dados (Lista Ligada, Pilha)
+Murilo Franciscon
 
-Mariana → Entrada/Saída, MapLoader, Board
+#Mariana Agostinho
 
-Beatriz → Ranking, Ordenação e Scoreboard
+Beatriz Soares
