@@ -60,6 +60,6 @@ Ao final, sua pontuação é salva em ranking.csv e o ranking é atualizado auto
 👨‍💻 Autores
 Murilo Franciscon
 
-#Mariana Agostinho
+Mariana Agostinho 
 
 Beatriz Soares
